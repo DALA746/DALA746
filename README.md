@@ -1,10 +1,13 @@
-Hello World! 🙋‍♀️, I’m Darya.
+Hello World! 🙋‍♀️, I’m Darya .
 
-- I am a career changer. 💪  
+- I'm career changer 💪 . 2021 is the year I took a step to change my career from conference host to frontend developer  👩‍💻
 
-- For me programming means an engaging challenge to constantly learn and improve my skills when it comes to creating projects. With each passing day my interest to programming grows even more and I am more than ready to embark on this exciting journey and take me to the next level. 
+- Frontend developer student at Lexicon Yrkesutbildning. Graduating in Juli 2021.🎊
 
 - Loving coding with: HTML, CSS, JavaScript. Currently learning Vue.js 🔨
 
-- Let's connect ✌ Here's my LinkedIn: [Darya on LinkedIn](https://www.google.com)
-- Here is my portfolio :  @Portfolio - Darya Lapata 😎
+- Personality: self-going, team-player, curious. 😀
+
+- Say hi 👋  on LinkedIn: [Darya on LinkedIn](https://www.linkedin.com/in/daryalapata/)
+
+- Here is my portfolio :  [Portfolio - Darya Lapata](https://dala-my-portfolio.netlify.app) 😎
