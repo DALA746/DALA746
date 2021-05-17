@@ -6,6 +6,5 @@ Hello World! 🙋‍♀️, I’m Darya.
 
 - Loving coding with: HTML, CSS, JavaScript. Currently learning Vue.js 🔨
 
-- Let's connect ✌ Here's my LinkedIn: Darya on LinkedIn
-
+- Let's connect ✌ Here's my LinkedIn: [Darya on LinkedIn](https://www.google.com)
 - Here is my portfolio :  @Portfolio - Darya Lapata 😎
