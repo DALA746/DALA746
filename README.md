@@ -4,7 +4,7 @@ Hello World! 🙋‍♀️, I’m Darya .
 
 - Frontend developer student at Lexicon Yrkesutbildning. Graduating in Juli 2021.🎊
 
-- Loving coding with: HTML, CSS, JavaScript. Currently learning Vue.js 🔨
+- Loving coding with: HTML, CSS, JavaScript. 
 
 - Personality: self-going, team-player, curious. 😀
 
