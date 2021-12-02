@@ -1,8 +1,6 @@
 Hello World! 🙋‍♀️, I’m Darya, a creative front-end developer with an event coordinating background. 
 
-- In the year 2020, I discovered a new passion 💚 in my life which is programming. 
-
-- I took a step to change my career and be the best front-end developer I can be 💪
+- Pasionate about building friendly and useful projects that solve peoples problem 💚 
 
 - I am passionate about learning new technologies and creating functional projects that will solve people's problems 💡 
 
