@@ -1,6 +1,6 @@
 Hello World! 🙋‍♀️, I’m Darya, a creative front-end developer with an event coordinating background. 
 
-- Pasionate about building friendly and useful projects that solve peoples problem 💚 
+- Passionate about building friendly and useful projects that solve peoples problem 💚 
 
 - I am passionate about learning new technologies and creating functional projects that will solve people's problems 💡 
 
