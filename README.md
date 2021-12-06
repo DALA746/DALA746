@@ -2,7 +2,7 @@ Hello World! 🙋‍♀️, I’m Darya, a creative front-end developer with an 
 
 - Passionate about building user-friendly projects that solve peoples problem 💚 
 
-- I love cracking coding problems and make my code more structured and functional. 
+- I love cracking coding problems and write my code in a strcutured way. 
 
 - I am passionate about learning new technologies and creating functional projects that will solve people's problems 💡 
 
