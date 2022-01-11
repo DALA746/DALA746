@@ -1,8 +1,8 @@
-👋🏽 Hi, I'm Darya, a creative frontend developer with event coordinating background.
+👋 Hi, I'm Darya, a creative frontend developer with event coordinating background.
 
 🎓 Currently studying at Technigo Coding bootcamp - Fall 2021
 
-🌇 Live in Stockholm, with a passion for creating user-friendly projekts and solving coding problems.
+🌇 Live in Stockholm, with a passion for creating user-friendly projects and solving coding problems.
 
 📚 I have 7 years of experience in event coordinating. During this time, I have been working in a high-path environment with a big team, daily solved customer's problems, organized schedules and developed my communications skills. I am looking forward to implement those skills in my new job as a developer and contribute to the company and to the team.
 
@@ -10,8 +10,8 @@
 
 🏔 In my free time, you can find me hanging out with friends and family, working out, playing video games or reading books.
 
-💪🏽 My favorite stack includes: HTML, CSS, React, React Redux, Styled Components, Node.js, Express and MongoDB.
+💪🏽 My favorite stack includes: React, React Redux, React Router, Styled Components, Node.js, Express and MongoDB.
 
-Say hi 👋  on LinkedIn: [Darya on LinkedIn](https://www.linkedin.com/in/daryalapata/)
+LinkedIn: [Darya on LinkedIn](https://www.linkedin.com/in/daryalapata/)
 
-Here is my portfolio: [Portfolio](https://daryalapata.netlify.app/)
+Portfolio: [Portfolio](https://daryalapata.netlify.app/)
