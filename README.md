@@ -1,6 +1,6 @@
 👋 Hi, I'm Darya, a creative frontend developer with event coordinating background.
 
-🎓 Currently studying at Technigo Coding bootcamp - Fall 2021
+🎓 Graduated at Technigo Coding bootcamp - Winter 2022
 
 🌇 Live in Stockholm, with a passion for creating user-friendly projects and solving coding problems.
 
