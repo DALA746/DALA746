@@ -4,7 +4,7 @@
 
 🌇 Live in Stockholm, with a passion for creating user-friendly projects and solving coding problems.
 
-📚 I have 7 years of experience in event coordinating. During this time, I have been working in a high-path environment with a big team, daily solved customer's problems, organized schedules and developed my communications skills. I am looking forward to implement those skills in my new job as a developer and contribute to the company and to the team.
+📚 I have seven years of experience in event coordinating. During this time, I have been working in a high-path environment with a big team, daily solved customer's problems, organized schedules and developed my communications skills. I am looking forward to implement those skills in my new job as a developer and contribute to the company and to the team.
 
 💻 As for my future, I hope to one day work as a front-end developer with supportive team where we create user-friendly projects and where I learn new technologies at the same time.
 
