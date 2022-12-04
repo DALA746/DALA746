@@ -1,10 +1,19 @@
 👋 Hi, I'm Darya, a creative front-end developer. I am passionate about solving problems and building user-friendly projects that bring value to people.
 
-🎓 Graduated at Technigo Coding bootcamp - Fall 2021
+🎓 Graduated from Technigo Coding Bootcamp & Lexicon Yrkesutbildning
 
-🏔 In my free time, you can find me working out, playing video games, reading books and building web projects and games.
+💻 Visit my portfolio: https://daryalapata.netlify.app
 
-💪🏽 The software that I use: HTML, CSS, JavaScript, Typescript, Web Accessibility, Unit Testing, API:s, Git, Command Line, React, JSX, Styled Components, Lit web components, React Native, React Redux, Node.js
+👩‍💻 My tech stack:  
+
+Frontend: 
+➟ HTML5/CSS/JavaScript (ES6) • React • JSX • Styled Components • Redux • Web components (Lit) • Typescript
+
+Backend
+➟ MongoDB • NodeJS • ExpressJS
+
+Others: 
+➟ Responsive Design • Git • API:s • Webpack • DOM Manipulation • JSON • Web Accessibility • ClickUp • Trello • VS Code • Figma • Netlify
 
 LinkedIn: [Darya on LinkedIn](https://www.linkedin.com/in/daryalapata/)
 
