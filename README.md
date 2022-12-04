@@ -2,8 +2,6 @@
 
 🎓 Graduated from Technigo Coding Bootcamp & Lexicon Yrkesutbildning
 
-💻 Visit my portfolio: https://daryalapata.netlify.app
-
 👩‍💻 My tech stack:  
 
 Frontend: 
