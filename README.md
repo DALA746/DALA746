@@ -5,7 +5,9 @@
 👩‍💻 My tech stack:  
 
 ⚫ HTML5/CSS/JavaScript (ES6) • React • JSX • Styled Components • Redux • Web components (Lit) • Typescript
+
 ⚫ MongoDB • NodeJS • ExpressJS
+
 ⚫ Responsive Design • Git • API:s • Webpack • DOM Manipulation • JSON • Web Accessibility • ClickUp • Trello • VS Code • Figma • Netlify
 
 LinkedIn: [Darya on LinkedIn](https://www.linkedin.com/in/daryalapata/)
