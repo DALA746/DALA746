@@ -1,6 +1,5 @@
-Hi 👋 My name is Darya
+Hi World 👋 I'm Darya!
 ======================
-
 Frontend Developer
 ------------------
 
