@@ -1,6 +1,8 @@
 Hi World 👋 I'm Darya!
 ======================
+
 Frontend Developer
+
 ------------------
 
 Hi, I'm Darya, a creative front-end developer. I am passionate about solving problems and building user-friendly projects that bring value to people.
