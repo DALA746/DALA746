@@ -9,7 +9,7 @@ Hi, I'm Darya, a creative front-end developer. I am passionate about solving pro
 
 * 🌍  I'm based in Stockholm, Sweden
 * 🖥️  See my portfolio at [Portfolio](http://https://darya-lapata-portfolio.netlify.app/)
-* ✉️  You can contact me at [darya.lapata@gmai.com](mailto:darya.lapata@gmai.com)
+* ✉️  You can contact me at [darya.lapata@gmai.com](mailto:darya.lapata@gmail.com)
 * 🧠  I'm learning ExpressJS and diving deeper into UX/UI design
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love to play games together and recently started to develop my own game in Godot
