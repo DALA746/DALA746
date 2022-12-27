@@ -1,22 +1,24 @@
 Hi World 👋 I'm Darya!
 ======================
 
-Frontend Developer
+A creative front-end developer with passion for asolving problems and building user-friendly projects that bring value to people.
 
-------------------
+🎓 Graduate from Technigo Bootcamp Fall 2021
 
-Hi, I'm Darya, a creative front-end developer. I am passionate about solving problems and building user-friendly projects that bring value to people.
+🌍 Based in Stockholm, Sweden
 
-* 🌍  I'm based in Stockholm, Sweden
+📚 From my previous experiences, I designed and developed user-friendly webpages and implemented solutions to an existing codebase. I have collaborated with different personalities and departments and together we worked on improving and developing an interactive user experience on a web platform. 
+
+💻 I am looking for a full-time job. My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world. 
+
+🏔 In my free time, you can find me playing games and working out. Recently, I started to develop my own game in an open sourse engine Godot.
+
+💪🏽 I enjoy working with frontend and planning to expand my knowledge and dive deeper into UX/UI design. 
+
 * 🖥️  See my portfolio at [Portfolio](http://https://darya-lapata-portfolio.netlify.app/)
 * ✉️  You can contact me at [darya.lapata@gmai.com](mailto:darya.lapata@gmail.com)
-* 🧠  I'm learning ExpressJS and diving deeper into UX/UI design
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love to play games together and recently started to develop my own game in Godot
 
 ### Skills
-
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
