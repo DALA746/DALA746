@@ -3,20 +3,14 @@ Hi World 👋 I'm Darya!
 
 A creative front-end developer with passion for asolving problems and building user-friendly projects that bring value to people.
 
-🎓 Graduate from Technigo Bootcamp Fall 2021
-
-🌍 Based in Stockholm, Sweden
-
-📚 From my previous experiences, I designed and developed user-friendly webpages and implemented solutions to an existing codebase. I have collaborated with different personalities and departments and together we worked on improving and developing an interactive user experience on a web platform. 
-
-💻 I am looking for a full-time job. My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world. 
-
-🏔 In my free time, you can find me playing games and working out. Recently, I started to develop my own game in an open sourse engine Godot.
-
-💪🏽 I enjoy working with frontend and planning to expand my knowledge and dive deeper into UX/UI design. 
-
+* 🎓 Graduate from Technigo Bootcamp Fall 2021
+* 🌍 Based in Stockholm, Sweden
+* 📚 From my previous experiences, I designed and developed user-friendly webpages and implemented solutions to an existing codebase. I have collaborated with different personalities and departments and together we worked on improving and developing an interactive user experience on a web platform. 
+* 💻 I am looking for a full-time job. My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world. 
+* 🏔 In my free time, you can find me playing games and working out. Recently, I started to develop my own game in an open sourse engine Godot.
+* 💪🏽 I enjoy working with frontend and planning to expand my knowledge and dive deeper into UX/UI design. 
 * 🖥️  See my portfolio at [Portfolio](http://https://darya-lapata-portfolio.netlify.app/)
-* ✉️  You can contact me at [darya.lapata@gmai.com](mailto:darya.lapata@gmail.com)
+* ✉️  You can contact me at [darya.lapata@gmail.com](mailto:darya.lapata@gmail.com)
 
 ### Skills
 <p align="left">
