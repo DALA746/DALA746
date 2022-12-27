@@ -9,7 +9,7 @@ A creative front-end developer with passion for asolving problems and building u
 * 💻 I am looking for a full-time job. My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world. 
 * 🏔 In my free time, you can find me playing games and working out. Recently, I started to develop my own game in an open sourse engine Godot.
 * 💪🏽 I enjoy working with frontend and planning to expand my knowledge and dive deeper into UX/UI design. 
-* 🖥️  See my portfolio at [Portfolio](http://https://darya-lapata-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](https://darya-lapata-portfolio.netlify.app/)
 * ✉️  You can contact me at [darya.lapata@gmail.com](mailto:darya.lapata@gmail.com)
 
 ### Skills
