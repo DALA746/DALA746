@@ -7,7 +7,7 @@ A creative front-end developer with a passion for solving problems and building 
 * 📚 From my previous experiences, I designed and developed user-friendly webpages and implemented solutions to an existing codebase. I have collaborated with different personalities and departments and together we worked on improving and developing an interactive user experience on a web platform.
 * 💻 I am looking for a full-time job. My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world.
 * 🎮 In my free time, you can find me playing games and working out. Recently, I started to develop my own game in an open source engine Godot.
-* 💪🏽 I enjoy working with frontend and plan to expand my knowledge and dive deeper into UX/UI design.
+* 💪🏽 My favorite stack to work with: HTML5/CSS/JavaScript (ES6), React, Styled Components, Redux, Web components (Lit), Typescript, MongoDB, NodeJS, ExpressJS, Responsive Design, Git, API:s, Webpack, VS Code.
 * 🖥️  See my portfolio at [Portfolio](https://darya-lapata-portfolio.netlify.app/)
 * ✉️  You can contact me at [darya.lapata@gmail.com](mailto:darya.lapata@gmail.com)
 
