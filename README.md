@@ -9,7 +9,6 @@ A creative front-end developer with a passion for solving problems and building 
 * 🎮 In my free time, you can find me playing games and working out. Recently, I started to develop my own game in an open source engine Godot.
 * 💪🏽 My favorite stack to work with: HTML5/CSS/JavaScript (ES6), React, Styled Components, Redux, Web components (Lit), Typescript, MongoDB, NodeJS, ExpressJS, Responsive Design, Git, API:s, Webpack, VS Code.
 * 🖥️  See my portfolio at [Portfolio](https://darya-lapata-portfolio.netlify.app/)
-* ✉️  You can contact me at [darya.lapata@gmail.com](mailto:darya.lapata@gmail.com)
 
 ### Skills
 <p align="left">
