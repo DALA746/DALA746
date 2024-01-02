@@ -8,9 +8,9 @@ interfaces. While I am interested in various aspects of programming, my
 primary focus lies in frontend development, with a full-stack ambition
 driving my continuous growth in the field.
 * 🎓 Graduate from Technigo Bootcamp Fall 2021
-* 📚 From my previous experiences, I designed and developed user-friendly webpages and implemented solutions to an existing codebase. I have collaborated with different personalities and departments and together we worked on improving and developing an interactive user experience on a web platform.
+* 📚 In my previous experiences, I designed and developed user-friendly webpages, implementing solutions within an existing codebase. I collaborated with diverse personalities and various departments, collectively working on enhancing and developing an interactive user experience on a web platform.
 * 💻 My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world.
-* 💪🏽 My favorite stack to work with: HTML5/CSS/JavaScript (ES6), React, Styled Components, Redux, Web components (Lit), Typescript, MongoDB, NodeJS, ExpressJS, Responsive Design, Git, API:s, Webpack, VS Code.
+* 💪🏽 My favorite stack to work with: HTML5/CSS/JavaScript (ES6), React, Styled Components, Redux,MongoDB, NodeJS, ExpressJS, Responsive Design, Git, API:s, VS Code.
 * 🖥️  See my portfolio at [Portfolio](https://darya-lapata-portfolio.netlify.app/)
 
 ### Skills
