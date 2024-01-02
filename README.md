@@ -1,7 +1,12 @@
 Hello World 👋 I'm Darya!
 ======================
 
-A creative front-end developer with a passion for solving problems and building user-friendly projects that bring value to people.
+Transitioning into tech has allowed me to fulfill my desire to create
+and innovate. In the digital realm, I find joy in cracking coding
+challenges and transforming lines of code into visually appealing
+interfaces. While I am interested in various aspects of programming, my
+primary focus lies in frontend development, with a full-stack ambition
+driving my continuous growth in the field.
 * 🎓 Graduate from Technigo Bootcamp Fall 2021
 * 📚 From my previous experiences, I designed and developed user-friendly webpages and implemented solutions to an existing codebase. I have collaborated with different personalities and departments and together we worked on improving and developing an interactive user experience on a web platform.
 * 💻 My passion is to work with talented people and collaborate to make products that would make an immediate impact on the world.
