@@ -8,7 +8,6 @@ interfaces. While I am interested in various aspects of programming, my
 primary focus lies in frontend development, with a full-stack ambition
 driving my continuous growth in the field.
 
-* 📚 In my previous experiences, I designed and developed user-friendly webpages, implementing solutions within an existing codebase. I collaborated with diverse personalities and various departments, collectively working on enhancing and developing an interactive user experience on a web platform.
 * 💻 My passion is building interactive user interfaces and collaborating with talented individuals to achieve common goals.
 * 💪 My favorite stack to work with: HTML5/CSS/JavaScript (ES6), React, Styled Components, Redux, MongoDB, NodeJS, ExpressJS, Responsive Design, Git, API:s, VS Code.
 * 👩‍💻 I have transitioned my career from the event industry to the tech sector.
