@@ -13,7 +13,7 @@ driving my continuous growth in the field.
 * 💪 My favorite stack to work with: HTML5/CSS/JavaScript (ES6), React, Styled Components, Redux, MongoDB, NodeJS, ExpressJS, Responsive Design, Git, API:s, VS Code.
 * 👩‍💻 I have transitioned my career from the event industry to the tech sector.
 * 🎓 Graduate from Technigo Bootcamp Fall 2021
-* 🖥️  See my portfolio at [Portfolio](https://darya-lapata-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](https://portfolio-darya-lapata.netlify.app/)
 
 ### Socials
 
